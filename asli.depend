@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563278458 source:e:\tugas-tugas\c++\uas_c++\asli\main.cpp
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<string.h>
+
